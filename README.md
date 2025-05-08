@@ -78,7 +78,7 @@ For detailed descriptions of **tables, stored procedures, functions, triggers, a
 
 ## Additional Documentation
 - [📄 Complete System Documentation](https://github.com/rameznoshy22/ITI-Examenation-System/blob/main/Examination%20System%20DocumentationPDF.pdf)
-- [📜 Database Definitions](https://github.com/qassemshaban7/Examenation-System-/blob/main/Definitions%20and%20Abbreviations.pdf)
+- [📜 Database Definitions](https://github.com/rameznoshy22/ITI-Examenation-System/blob/main/Definitions%20and%20Abbreviations.pdf)
 
 
 ---
