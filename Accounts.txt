@@ -1,0 +1,8 @@
+Admin Windows Authententication 
+
+login id = Instructor           password = 1525hdfjfj
+
+login id = Student              password = stuendtITI154
+
+login id = TrainingManager      password = MGITI2000
+
